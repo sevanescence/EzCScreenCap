@@ -1,2 +1,2 @@
 prog:
-	g++ -Wall -o capture capture.cpp -lGdi32 -lGdiplus
+	g++ -Wall -o capture src/capture.cpp -lGdi32 -lGdiplus
